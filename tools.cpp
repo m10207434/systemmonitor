@@ -10,4 +10,5 @@ int update_adjust(int pre,int cur){
 	}else{
 		return 0;
 	}
+	printf("1\n");
 }
